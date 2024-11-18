@@ -1,0 +1,37 @@
+﻿{"data": [
+    {
+        "fullName": "Nam Anh",
+        "address": "Tp Hồ Chí Minh",
+        "dob": "2000-06-12",
+        "gender": true,
+        "salary": 15000000
+    },
+    {
+        "fullName": "Khánh Linh",
+        "address": "Cần Thơ",
+        "dob": "2001-09-23",
+        "gender": false,
+        "salary": 12000000
+    },
+    {
+        "fullName": "Tuấn Hùng",
+        "address": "Quảng Ngãi",
+        "dob": "2005-01-15",
+        "gender": true,
+        "salary": 8000000
+    },
+    {
+        "fullName": "Huỳnh Như",
+        "address": "Tp Hồ Chí Minh",
+        "dob": "1999-10-19",
+        "gender": false,
+        "salary": 11000000
+    },
+    {
+        "fullName": "Quốc Đại",
+        "address": "Đà Nẵng",
+        "dob": "2002-03-26",
+        "gender": true,
+        "salary": 19000000
+    }
+]}

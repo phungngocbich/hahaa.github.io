@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="row">
+    <div
+      class="col-md-3"
+      *ngFor="let restaurant of restaurants"
+    
+      
+    >
+      <div class="card">
+        <div class="card-img-top">
+          <img
+            [src]="'/assets/images/' + restaurant.thumb"
+            alt="{{ restaurant.name }}"
+          />
+        </div>
+
+        <div class="card-body">
+          <h5 class="card-title">{{ restaurant.name }}</h5>
+
+          <p class="card-text">{{ restaurant.addressCount }} địa điểm</p>
+
+          <p class="card-text discount">Hoàn tiền: {{ restaurant.discount }}</p>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<places>
+	<place>
+		<id>1</id>
+		<name>JiangHu Hotpot</name>
+		<discount>10%</discount>
+		<thumb>JiangHu.png</thumb>
+		<rating>4.6</rating>
+		<address>
+			<southern>770C Đường Sư Vạn Hạnh Nối Dài, Phường 12, Quận 10, Tp. Hồ Chí Minh</southern>
+			<southern>T37, Tầng 3, Aeon Mall Tân Phú, 30 Tân Thắng, Phường Sơn Kỳ, Quận Tân Phú, Tp. Hồ Chí Minh</southern>
+			<north>T316-2, Tầng 3, Aeon Mall Long Biên, 27 Cổ Linh, Phường Long Biên, Quận Long Biên, Hà Nội</north>
+		</address>
+	</place>
+	<place>
+		<id>2</id>
+		<name>El Gaucho</name>
+		<discount>15%</discount>
+		<thumb>ElGaucho.png</thumb>
+		<rating>4.8</rating>
+		<address>
+			<north>29 Liễu Giai VINCOM Center Metropolis Unit L1-16A Ground Floor, Ba Đình, Hà Nội</north>
+			<north>11 Tràng Tiền, Hoàn Kiếm, Hà Nội</north>
+			<north>No.2, Lot G2, Ground Floor, Someret West Point, Đường Tây Hồ, Quảng An, Tây Hồ, Hà Nội</north>
+		</address>
+	</place>
+	<place>
+		<id>3</id>
+		<name>Thai Express</name>
+		<discount>10%</discount>
+		<thumb>ThaiExpress.jpg</thumb>
+		<rating>4.5</rating>
+		<address>
+			<southern>Gian hàng L4 -04, Tầng 4, TTTM Vincom Biên Hòa - 1096 Phạm Văn Thuận, Phường Tân Mai, Thành Phố Biên Hòa, Tỉnh Đồng Nai</southern>
+			<north>Tầng 5 TTTM Vincom Nguyễn Chí Thanh, 54A - 56 Nguyễn Chí Thanh, Đống Đa, Hà Nội</north>
+			<north>Tầng B2, Royal City, 72A Nguyễn Trãi, Thanh Xuân, Hà Nội</north>
+		</address>
+	</place>
+	<place>
+		<id>4</id>
+		<name>Seoul Garden</name>
+		<discount>10%</discount>
+		<thumb>SeoulGarden.png</thumb>
+		<rating>4.7</rating>
+		<address>
+			<southern>208 Nam Kỳ Khởi Nghĩa, P.6, Q.3, Tp. HCM</southern>
+			<southern>B3-16A, Vincom Center, 70-72 Lê Thánh Tôn, P.Bến Nghé, Quận 1, Tp. HCM</southern>
+			<southern>5-09, 5-10, 5-11, TTTM Sư Vạn Hạnh - Tầng 5, 11 Sư Vạn Hạnh, Phường 2, Quận 10, Tp. HCM</southern>
+			<southern>Lô 03F - Tầng 3, TTTM Lotte Mart Nam Sài Gòn, 469 Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp. HCM</southern>
+			<north>T5, Vincom Center, 191 Bà Triệu, Hai Bà Trưng, Hà Nội</north>
+			<north>SO-07, Tầng G, The Garden, Mỹ Đình, Từ Liêm, Hà Nội</north>
+		</address>
+	</place>
+	<place>
+		<id>5</id>
+		<name>Sushi Kei</name>
+		<discount>12%</discount>
+		<thumb>SushiKei.png</thumb>
+		<rating>4.8</rating>
+		<address>
+			<southern>Gian hàng Lô 03-24b, Tầng 3, TTTM SC Vivocity - Dự án TTTM Dịch Vụ Giải Trí Nam Sài Gòn, số 1058 Nguyễn Văn Linh, Khu phố 1, Phường Tân Phong, Quận 7, Tp. HCM</southern>
+			<southern>5-03A,Tầng 5, TTTM Sư Vạn Hạnh, 11 Sư Vạn Hạnh, Phường 2, Quận 10, Tp. HCM</southern>
+			<southern>Lô 03F - Tầng 3, TTTM Lotte Mart Nam Sài Gòn, 469 Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp. HCM</southern>
+			<north>Tòa Nhà M3-M4, Số 91 Nguyễn Chí Thanh, Đống Đa, Hà Nội</north>
+			<north>Tầng 3, Lotte Department Store, 54 Liễu Giai, Ba Đình, Hà Nội</north>
+		</address>
+	</place>
+	<place>
+		<id>6</id>
+		<name>Dickies</name>
+		<discount>10%</discount>
+		<thumb>Dickies.png</thumb>
+		<rating>4.9</rating>
+		<address>
+			<southern>Tầng 1, 190 Hai Bà Trưng, P. Đa Kao, Q.1, Tp. HCM</southern>
+			<north>53 Chùa Bộc, Phường Trung Liệt, Quận Đống Đa, Hà Nội.</north>
+		</address>
+	</place>
+	<place>
+		<id>7</id>
+		<name>Capricciosa</name>
+		<discount>12%</discount>
+		<thumb>Capri.png</thumb>
+		<rating>4.5</rating>
+		<address>
+			<southern>Lô B1-38, TTTM Vincom Center Landmark 81, 772 Điện Biên Phủ, Phường 22, Quận Bình Thạnh, Tp. HCM</southern>
+			<north>Tầng 5, Vincom Tower, 191 Bà Triệu, Hai Bà Trưng, Hà Nội</north>
+			<north>Tầng L3, TTTM Vincom Center Metropolis, 29 Liễu Giai, Ba Đình, Hà Nội</north>
+		</address>
+	</place>
+	<place>
+		<id>8</id>
+		<name>King BBQ</name>
+		<discount>10%</discount>
+		<thumb>KingBBQ.png</thumb>
+		<rating>4.8</rating>
+		<address>
+			<southern>515 Nguyễn Tri Phương, Phường 8, Quận 10, TP.HCM</southern>
+			<southern>347 Lê Văn Sỹ, P.1, Q. Tân Bình, TP.HCM</southern>
+			<southern>Gian hàng 04-05B, Tầng 4, TTTM SC Vivocity, Khu Đô Thị Mới Nam Sài Gòn, 1058 ĐL Nguyễn văn Linh, P.Tân Phong, Q.7, TP.HCM</southern>
+			<southern>310 Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú, TP.HCM</southern>
+			<north>Tầng 5, Vincom Center, 191 Bà Triệu, Hai Bà Trưng, Hà Nội</north>
+			<north>Tầng 1 Tòa nhà Mipec 229 Tây Sơn, Đống Đa, Hà Nội</north>
+		</address>
+	</place>
+	<place>
+		<id>9</id>
+		<name>Tasaki BBQ</name>
+		<discount>10%</discount>
+		<thumb>Tasaki.png</thumb>
+		<rating>5</rating>
+		<address>
+			<southern>Tầng trệt, 409A Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM</southern>
+			<southern>Gian hàng B1-07+08, Tầng B1 , TTTM Vincom Quang Trung - 190 Quang Trung, Phường 10, Q. Gò Vấp, TP.HCM</southern>
+			<southern>Tầng 6, TTTM Vạn Hạnh, Số 11 Sư Vạn Hạnh, P12, Q10, TP.HCM</southern>
+			<north>46 Trần Thái Tông, Dịch Vọng Hậu, Cầu Giấy, Hà Nội</north>
+			<north>Tầng 3, Lotte Department Store, 54 Liễu Giai, P.Cống Vị, Q.Ba Đình, Hà Nội</north>
+		</address>
+	</place>
+	<place>
+		<id>10</id>
+		<name>BukBuk</name>
+		<discount>10%</discount>
+		<thumb>Bukbuk.png</thumb>
+		<rating>4.8</rating>
+		<address>
+			<southern>347 Lê Văn Sỹ, Phường 1, Quận Tân Bình, TP.HCM</southern>
+			<southern>Tầng 3, TTTM Vincom Tây Ninh, Khu phố 1, Phường 3, Tỉnh Tây Ninh</southern>
+			<north>Savico Megamall 7-9 Nguyễn Văn Linh, Quận Long Biên, Hà Nội</north>
+			<north>Tầng 3 Vincom Bắc Ninh, Ngã 6 đường Lý Thái Tổ, Đại Phúc, Bắc Ninh</north>
+		</address>
+	</place>
+	<place>
+		<id>11</id>
+		<name>Jockey</name>
+		<discount>10%</discount>
+		<thumb>Jockey.png</thumb>
+		<rating>4.9</rating>
+		<address>
+			<southern>292 Lê Văn Sỹ, Phường 14, Quận 3, Tp. HCM</southern>
+			<southern>02 Trần Quang Khải, Phường Tân Định, Quận 1, Tp. HCM</southern>
+			<north>217 Chùa Bộc, Phường Trung Liệt, Quận Đống Đa, Hà Nội</north>
+			<north>Tầng 1, Tòa nhà D2 Giảng Võ, Đường D2, Phường Giảng Võ, Quận Ba Đình, Hà Nội</north>
+			<north>93 Phố Huế, Phường Ngô Thì Nhậm, Quận Hai Bà Trưng, Hà Nội</north>
+		</address>
+	</place>
+	<place>
+		<id>12</id>
+		<name>Dolpan Sam</name>
+		<discount>10%</discount>
+		<thumb>Dolpan.jpg</thumb>
+		<rating>4.7</rating>
+		<address>
+			<southern>Tầng 6, TTTM Vạn Hạnh, Số 11 Sư Vạn Hạnh, P12, Q10, TP.HCM</southern>
+			<southern>Tầng 5, TTTM Gigamall, 242 Phạm Văn Đồng, Hiệp Bình Chánh, Thủ Đức, TP.HCM</southern>
+			<north>Tầng 4 TTTM Artemis, số 3 Lê Trọng Tấn, Hà Nội</north>
+			<north>Lô T5- 09, tầng 5 TTTM Vincom Center Trần Duy Hưng, Trung Hòa, Cầu Giấy, Hà Nội</north>
+		</address>
+	</place>
+</places>

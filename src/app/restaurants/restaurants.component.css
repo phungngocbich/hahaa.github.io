@@ -1,0 +1,57 @@
+.container {
+  margin-top: 20px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  margin: 10px;
+  background-color: #fff;
+  height: 200px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  cursor: pointer;
+}
+
+.card:hover {
+  background-color: #ffe6e6;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 80%;
+  overflow: hidden;
+  border: 2px red solid;
+}
+
+.card-img-top img {
+  width: 100%;
+  height: 100%;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  margin: 0.5rem 0;
+  text-align: center;
+}
+
+.card-text {
+  color: #555;
+  margin: 0.5rem 0;
+  text-align: center;
+}
+
+.card-text.discount {
+  color: red;
+}
+
